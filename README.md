@@ -1,9 +1,8 @@
  # 👨🏻‍💻 Lucas Farias
 
-**`Desenvolvedor FullStack em formação`** 
+**`Desenvolvedor Back-end em formação`** 
 
-Sou desenvolvedor com formação em Ensino Médio Técnico em Informática pelo ITB Brasílio Flores de Azevedo (FIEB). Tenho experiência inicial no desenvolvimento de aplicações web, backend e mobile, com foco em aprendizado contínuo, organização de código e boas práticas de desenvolvimento. Busco consolidar meus conhecimentos por meio de projetos práticos e evolução constante na área de tecnologia.
-
+Sou desenvolvedor com formação técnica em Informática pelo ITB Brasílio Flores de Azevedo (FIEB), com experiência prática básica no desenvolvimento de sistemas back-end. Atuei na criação de APIs REST em Java com Spring Boot, integração com banco de dados SQL Server e participação em projetos acadêmicos e para empresa. Busco consolidar meus conhecimentos por meio de projetos práticos e evolução contínua na área de desenvolvimento de software.
 
 ### 💻 Linguagens 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" style="vertical-align:middle; margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" style="vertical-align:middle; margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" style="vertical-align:middle; margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" style="vertical-align:middle; margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="32" style="vertical-align:middle; margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" style="vertical-align:middle;"/> </p>
